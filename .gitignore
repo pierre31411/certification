@@ -1,87 +1,18 @@
-.venv
-distilbert_contrat_final/
-results/
-figures/
+# Environnement virtuel
 .venv/
 
-
-# === Python ===
+# Python
 __pycache__/
 *.py[cod]
-*.so
-*.pyd
-*.pyo
 
-# === Notebooks checkpoints ===
+# Jupyter Notebooks
 .ipynb_checkpoints/
 
-# === Environnements virtuels ===
-env/
-venv/
-ENV/
-.venv/
-.Python
 
-# === IDE / outils ===
+# Éditeurs / IDE
 .vscode/
 .idea/
-*.sublime-project
-*.sublime-workspace
 
-# === Données et sorties ===
-*.csv
-*.tsv
-*.json
-*.xlsx
-*.h5
-*.db
-*.sqlite
-*.pickle
-*.joblib
-*.log
-
-# === Dossiers générés ===
-build/
-dist/
-*.egg-info/
-*.egg
-.cache/
-logs/
-output/
-results/
-checkpoints/
-runs/
-wandb/
-distilbert_contrat_final/
-figures/
-results/
-
-# === Modèles / NLP ===
-*.bin
-*.pt
-*.pth
-*.ckpt
-*.h5
-*.tflite
-*.onnx
-*.pb
-tokenizer_config.json
-tokenizer.json
-vocab.txt
-special_tokens_map.json
-
-# === Compressed files ===
-*.zip
-*.tar.gz
-*.tar
-*.rar
-*.7z
-
-# === OS ===
+# Système d'exploitation
 .DS_Store
 Thumbs.db
-ehthumbs.db
-
-# === Exceptions : fichiers spécifiques à inclure ===
-!personas_assurance.csv
-!analyse_exploratoire_assurance.ipynb
