@@ -46,7 +46,7 @@ Créer et activer un environnement virtuel :
 
 
 python -m venv env
-env\Scripts\activate        # sous Windows
-source env/bin/activate     # sous macOS / Linux
+-env\Scripts\activate        # sous Windows
+-source env/bin/activate     # sous macOS / Linux
 
 
