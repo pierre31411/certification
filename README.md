@@ -10,7 +10,7 @@ Les personas sont générés de manière synthétique à l’aide de la biblioth
 
 Chaque persona représente un **client fictif** avec des caractéristiques réalistes, basées sur des données statistiques officielles telles que celles de **l’INSEE** (répartition par âge, statut d’occupation, revenus moyens).
 
-Ce processus permet de construire un **jeu de données cohérent et  réaliste ** .
+Ce processus permet de construire un jeu de données cohérent et  réaliste  .
 
 ---
 
