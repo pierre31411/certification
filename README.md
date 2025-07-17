@@ -10,11 +10,11 @@ Les personas sont générés de manière synthétique à l’aide de la biblioth
 
 Chaque persona représente un **client fictif** avec des caractéristiques réalistes, basées sur des données statistiques officielles telles que celles de **l’INSEE** (répartition par âge, statut d’occupation, revenus moyens).
 
-Ce processus permet de construire un **jeu de données cohérent, réaliste et équilibré**, idéal pour entraîner et tester des modèles .
+Ce processus permet de construire un **jeu de données cohérent et  réaliste ** .
 
 ---
 
-## 🎯 Objectif du projet
+##  Objectif du projet
 
 Ce projet vise à prédire la **cotisation annuelle** d’un contrat d’assurance habitation en se basant sur les caractéristiques suivantes :
 
@@ -32,9 +32,9 @@ L’objectif est de développer un **modèle de régression** capable de fournir
 | Fichier                    | Description |
 |---------------------------|-------------|
 | `bloc3.ipynb`             | Préparation des données et entraînement des modèles ; comparaison des performances (régression linéaire, forêts, boosting) |
-| `bloc_5.ipynb` |   apprentissage profond (ANN) avec visualisation des courbes de performance |
+| `bloc_5.ipynb` |   Préparation des données et entraînement parapprentissage profond (ANN)  |
 | `app.py`                  | Script d'exécution ou interface de prédiction |
-| `README.md`               | Présentation du projet (ce fichier) |
+| `README.md`               | Présentation du projet |
 
 ---
 
