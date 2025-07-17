@@ -44,7 +44,7 @@ Version Python recommandée : **3.12.1**
 
 Créer et activer un environnement virtuel :
 
-```bash
+
 python -m venv env
 env\Scripts\activate        # sous Windows
 source env/bin/activate     # sous macOS / Linux
