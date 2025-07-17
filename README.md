@@ -33,7 +33,7 @@ L’objectif est de développer un **modèle de régression** capable de fournir
 |---------------------------|-------------|
 | `bloc3.ipynb`             | Préparation des données et entraînement des modèles ; comparaison des performances (régression linéaire, forêts, boosting) |
 | `bloc_5.ipynb` |   Préparation des données et entraînement par apprentissage profond (ANN)  |
-| `app.py`                  | Script d'exécution ou interface de prédiction |
+| `app.py`                  | Script d'exécution via streamlit  |
 | `README.md`               | Présentation du projet |
 
 ---
