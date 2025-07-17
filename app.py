@@ -4,6 +4,9 @@ import pandas as pd
 import joblib
 from tensorflow.keras.models import load_model
 
+#--- titre principal
+st.title("Scoria")
+
 # --- Chargement du modèle et du préprocesseur
 model = load_model("model_ann_leakyrelu.keras")
 preprocessor = joblib.load("preprocessor.pkl")
