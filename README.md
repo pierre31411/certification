@@ -32,6 +32,8 @@ L’objectif est de développer un modèle de régression capable de fournir une
 
 ##  Installation
 
+Version Pyton 3.12.1
+
 python -m venv env
 
 source env/bin/activate  # sur Linux/macOS
