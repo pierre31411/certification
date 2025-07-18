@@ -23,7 +23,7 @@ Ce projet vise à prédire la **cotisation annuelle** d’un contrat d’assuran
 - **`patrimoine_estime`** : estimation du patrimoine du client  
 - **`montant_couvert`** : montant total souhaité par le client pour la couverture
 
-L’objectif est de développer un **modèle de régression** capable de fournir une estimation fiable de la cotisation, afin de contribuer à la tarification ou à la personnalisation des offres d’assurance.
+L’objectif est de développer un **modèle de régression** capable de fournir une estimation fiable de la cotisation.
 
 ---
 
